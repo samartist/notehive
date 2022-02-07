@@ -1,19 +1,19 @@
-<a href="https://iguanahive.com"><img src="https://iguanahive.com/images/webscreen_small.jpg" title="Iguana Hive" alt="Iguana Hive"></a>
+<a href="https://notehive.org"><img src="https://notehive.org/images/webscreen_small.jpg" title="Note Hive" alt="Note Hive"></a>
 
 
-# <a href="https://iguanahive.com" target="_blank">IGUANA Hive</a>
-### INFLUENCE & GUIDANCE USING ANALYTICS, NARRATIVES, & ANTHROPOLOGY
+# <a href="https://notehive.org" target="_blank">Note Hive</a>
+### INTELLIGENT GUIDANCE USING ADVANCED NOTEBOOK APPLICATIONS
 
 > A membership driven initiative to bring together great journalists, copywriters, authors who collaborate on outstanding publications.
 
-> IGUANA Hive is built and maintained using swarm intelligence in collaboration with <a href="https://instarlab.org" target="_blank">INSTAR Lab Inc</a> for research &amp; analysis and is powered by the community of the <a href="https://taolearning.org" target="_blank">Tao Learning Institute</a>.
+> Note Hive is built and maintained using swarm intelligence in collaboration with <a href="https://instarlab.org" target="_blank">INSTAR Lab Inc</a> for research &amp; analysis and is powered by the community of the <a href="https://taolearning.org" target="_blank">Tao Learning Institute</a>.
 
 <hr>
 
 **Current Progress**
 
 
-| 🔨 <a href="https://github.com/TaoFruit/iguanahive/milestone/1">LifeCycle Mgt</a> 	| 👯 Customer Journey 	| 📑 Narratives 	|
+| 🔨 <a href="https://github.com/TaoFruit/notehive/milestone/1">LifeCycle Mgt</a> 	| 👯 Customer Journey 	| 📑 Narratives 	|
 |-	|-	|-	|
 | :white_check_mark: Dream 	| :black_square_button: UX Research 	|  :black_square_button: ReadMe 	|
 | :white_check_mark: Discovery 	| :black_square_button: UI Design 	| :black_square_button: Documentation 	|
@@ -28,7 +28,7 @@
 
 ## Learn Copywriting
 
-[![IGUANA Hive](http://img.youtube.com/vi/5Nw2vRY9q8k/0.jpg)](http://www.youtube.com/watch?v=5Nw2vRY9q8k "Copywriting for Beginners Workflow")
+[![Note Hive](http://img.youtube.com/vi/5Nw2vRY9q8k/0.jpg)](http://www.youtube.com/watch?v=5Nw2vRY9q8k "Copywriting for Beginners Workflow")
 
 - Most people will glance at your `README`, *maybe* star it, and leave
 - Ergo, people should understand instantly what your project is about based on your repo
@@ -135,7 +135,7 @@ $ bower install
     [![FVCproductions](./project/collabonenote.png)](https://taolearning.sharepoint.com/:o:/s/DreamHive/EpqxZEO8utFNqeBWYlg0bygBahvJByeCoh3btohzp_r0Vw?e=m3FOuJ)   
 
 - **Option 2**
-    - 👯 Clone this repo to your local machine using `https://github.com/TaoFruit/iguanahive.git`
+    - 👯 Clone this repo to your local machine using `https://github.com/TaoFruit/notehive.git`
 
 ### Step 2
 
