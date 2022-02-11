@@ -1,197 +1,108 @@
-<a href="https://notehive.org"><img src="https://notehive.org/images/webscreen_small.jpg" title="Note Hive" alt="Note Hive"></a>
 
+<h1 align="center">
+  <br>
+  <a href="https://dreamwave.org/"><img src="https://i.imgur.com/yRhTJxG.png" alt="Markdownify" width="200"></a>
+  <br>
+  DreamWave™
+  <br>
+</h1>
 
-# <a href="https://notehive.org" target="_blank">Note Hive</a>
-### INTELLIGENT GUIDANCE USING ADVANCED NOTEBOOK APPLICATIONS
+<h4 align="center">THE ULTIMATE VIBE</h4>
 
-> A membership driven initiative to bring together great journalists, copywriters, authors who collaborate on outstanding publications.
+<p align="center">
 
-> Note Hive is built and maintained using swarm intelligence in collaboration with <a href="https://instarlab.org" target="_blank">INSTAR Lab Inc</a> for research &amp; analysis and is powered by the community of the <a href="https://taolearning.org" target="_blank">Tao Learning Institute</a>.
+  <a href="https://dreamhive.org/">
+      <img src="https://img.shields.io/badge/Join%20the%20Dream%20Hive-%E2%98%86-orange">
+  </a>
+</p>
 
-<hr>
+<p align="center">
+  <a href="#key-features">Key Features</a> •
+  <a href="#how-to-use">How To Use</a> •
+  <a href="#download">Download</a> •
+  <a href="#credits">Credits</a> •
+  <a href="#related">Related</a> •
+  <a href="#license">License</a>
+</p>
 
-**Current Progress**
+![screenshot](https://i.imgur.com/hDG0EjO.png)
 
+## DreamWave™ Method enables:
 
-| 🔨 <a href="https://github.com/TaoFruit/notehive/milestone/1">LifeCycle Mgt</a> 	| 👯 Customer Journey 	| 📑 Narratives 	|
-|-	|-	|-	|
-| :white_check_mark: Dream 	| :black_square_button: UX Research 	|  :black_square_button: ReadMe 	|
-| :white_check_mark: Discovery 	| :black_square_button: UI Design 	| :black_square_button: Documentation 	|
-| :white_check_mark: Development 	| :black_square_button: Brand Identity 	| :black_square_button: Business Plan 	|
-| :black_square_button: Deployment 	| :black_square_button: Call to Actions 	| :black_square_button: Proposal 	|
-| :black_square_button: Discipline 	| :black_square_button: Copywriting 	| :black_square_button: Technical Documenation 	|
-| :black_square_button: Disposal 	| :black_square_button: Sales Funnel	| :black_square_button: Stats &amp; Results 	|
-
-[![Build Status](http://img.shields.io/travis/badges/badgerbadgerbadger.svg?style=flat-square)](https://travis-ci.org/badges/badgerbadgerbadger) [![Dependency Status](http://img.shields.io/gemnasium/badges/badgerbadgerbadger.svg?style=flat-square)](https://gemnasium.com/badges/badgerbadgerbadger) [![Coverage Status](http://img.shields.io/coveralls/badges/badgerbadgerbadger.svg?style=flat-square)](https://coveralls.io/r/badges/badgerbadgerbadger) [![Code Climate](http://img.shields.io/codeclimate/github/badges/badgerbadgerbadger.svg?style=flat-square)](https://codeclimate.com/github/badges/badgerbadgerbadger) [![Github Issues](http://githubbadges.herokuapp.com/badges/badgerbadgerbadger/issues.svg?style=flat-square)](https://github.com/badges/badgerbadgerbadger/issues) [![Pending Pull-Requests](http://githubbadges.herokuapp.com/badges/badgerbadgerbadger/pulls.svg?style=flat-square)](https://github.com/badges/badgerbadgerbadger/pulls) [![Gem Version](http://img.shields.io/gem/v/badgerbadgerbadger.svg?style=flat-square)](https://rubygems.org/gems/badgerbadgerbadger) [![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org) [![Badges](http://img.shields.io/:badges-9/9-ff6799.svg?style=flat-square)](https://github.com/badges/badgerbadgerbadger)
-
-- For more on these wonderful ~~badgers~~ badges, refer to <a href="http://badges.github.io/badgerbadgerbadger/" target="_blank">`badgerbadgerbadger`</a>.
-
-## Learn Copywriting
-
-[![Note Hive](http://img.youtube.com/vi/5Nw2vRY9q8k/0.jpg)](http://www.youtube.com/watch?v=5Nw2vRY9q8k "Copywriting for Beginners Workflow")
-
-- Most people will glance at your `README`, *maybe* star it, and leave
-- Ergo, people should understand instantly what your project is about based on your repo
-
-> Tips
-
-- HAVE WHITE SPACE
-- MAKE IT PRETTY
-- GIFS ARE REALLY COOL
-
-> GIF Tools
-
-- Use <a href="http://recordit.co/" target="_blank">**Recordit**</a> to create quicks screencasts of your desktop and export them as `GIF`s.
-- For terminal sessions, there's <a href="https://github.com/chjj/ttystudio" target="_blank">**ttystudio**</a> which also supports exporting `GIF`s.
-
-**Recordit**
-
-![Recordit GIF](http://g.recordit.co/iLN6A0vSD8.gif)
-
-**ttystudio**
-
-![ttystudio GIF](https://raw.githubusercontent.com/chjj/ttystudio/master/img/example.gif)
-
----
-
-## Table of Contents (Optional)
-
-> If your `README` has a lot of info, section headers might be nice.
-
-- [Installation](#installation)
-- [Features](#features)
-- [Contributing](#contributing)
-- [Team](#team)
-- [FAQ](#faq)
-- [Support](#support)
-- [License](#license)
-
-
----
-
-## Example (Optional)
-
-```javascript
-// code away!
-
-let generateProject = project => {
-  let code = [];
-  for (let js = 0; js < project.length; js++) {
-    code.push(js);
-  }
-};
-```
-
----
-
-## Installation
-
-- All the `code` required to get started
-- Images of what it should look like
-
-### Clone
-
-- Clone this repo to your local machine using `https://github.com/fvcproductions/SOMEREPO`
-
-### Setup
-
-- If you want more syntax highlighting, format your code like this:
-
-> update and install this package first
-
-```shell
-$ brew update
-$ brew install fvcproductions
-```
-
-> now install npm and bower packages
-
-```shell
-$ npm install
-$ bower install
-```
-
-- For all the possible languages that support syntax highlithing on GitHub (which is basically all of them), refer <a href="https://github.com/github/linguist/blob/master/lib/linguist/languages.yml" target="_blank">here</a>.
-
----
-
-## Features
-## Usage (Optional)
-## Documentation (Optional)
-## Tests (Optional)
-
-- Going into more detail on code and technologies used
-- I utilized this nifty <a href="https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet" target="_blank">Markdown Cheatsheet</a> for this sample `README`.
-
----
-
-## Contributing
-> We welcome <a href="https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/about-pull-requests" target="_blank">Pull Requests</a> from everyone, whether you are a student, a teacher, or an expert in the field. When first making a pull request, please keep it short &amp; brief as we establish a relationship. Afterwards &amp; when available, we will provide compensation for substantial contributions to our projects. 
-
-### Step 1
-
-- **Collaborate in Data Analysis &amp; Research**
-    - Contribute in Onenote - <a href="https://taolearning.sharepoint.com/:o:/s/DreamHive/EpqxZEO8utFNqeBWYlg0bygBahvJByeCoh3btohzp_r0Vw?e=m3FOuJ" target="_blank">Click Here</a> 
-    [![FVCproductions](./project/collabonenote.png)](https://taolearning.sharepoint.com/:o:/s/DreamHive/EpqxZEO8utFNqeBWYlg0bygBahvJByeCoh3btohzp_r0Vw?e=m3FOuJ)   
-
-- **Option 2**
-    - 👯 Clone this repo to your local machine using `https://github.com/TaoFruit/notehive.git`
-
-### Step 2
-
-- **HACK AWAY!** 🔨🔨🔨
-
-### Step 3
-
-- 🔃 Create a new pull request using <a href="https://github.com/joanaz/HireDot2/compare/" target="_blank">`https://github.com/joanaz/HireDot2/compare/`</a>.
-
-> While we welcome ideas from all directions, members of <strong>The Focus Hive</strong> are most helpful as they are trained in our DevOps philosophy. Training and membership information is available <a href="https://thefocushive.com" target="_blank">here</a>.
-
----
-
-## Team
-
-> Or Contributors/People
-
-| <a href="http://fvcproductions.com" target="_blank">**FVCproductions**</a> | <a href="http://fvcproductions.com" target="_blank">**FVCproductions**</a> | <a href="http://fvcproductions.com" target="_blank">**FVCproductions**</a> |
+| Future-proof Planning | Secret Intelligence | Special Abilities |
 | :---: |:---:| :---:|
-| [![FVCproductions](https://avatars1.githubusercontent.com/u/4284691?v=3&s=200)](http://fvcproductions.com)    | [![FVCproductions](https://avatars1.githubusercontent.com/u/4284691?v=3&s=200)](http://fvcproductions.com) | [![FVCproductions](https://avatars1.githubusercontent.com/u/4284691?v=3&s=200)](http://fvcproductions.com)  |
-| <a href="http://github.com/fvcproductions" target="_blank">`github.com/fvcproductions`</a> | <a href="http://github.com/fvcproductions" target="_blank">`github.com/fvcproductions`</a> | <a href="http://github.com/fvcproductions" target="_blank">`github.com/fvcproductions`</a> |
+| <h1> 📜 </h1> | <h1> 🧠 </h1> | <h1> 🚀 </h1> |
+| (Success Recipe) | Obtain Sacred Knowledge | Unlock Your Potential |
 
-- You can just grab their GitHub profile image URL
-- You should probably resize their picture using `?s=200` at the end of the image URL.
+![screenshot](https://i.imgur.com/ZB4myHW.jpg)
 
----
+|  | Hives | Steps | Links |
+| :---: |:---:| :---:| :---:|
+| <h1> <img src="https://i.imgur.com/KyhVgEB.png?s=1"> </h1> | <h1> FocusHive </h1> Phasellus sodales pellentesque elit sed tempor. | <h1> +8 </h1> | <img src="https://img.shields.io/badge/Visit%20Hive-%E2%98%86-green"> |
+| <h1> <img src="https://i.imgur.com/rM055Cy.png"> </h1> | <h1> ResearchHive </h1> Maecenas et sagittis dolor, sed ultricies felis. | <h1> +7 </h1> | <img src="https://img.shields.io/badge/Visit%20Hive-%E2%98%86-green"> |
+| <h1> <img src="https://i.imgur.com/2ANw2fR.png"> </h1> | <h1> SteamHive </h1> Interdum et malesuada fames ac ante ipsum primis in faucibus. | <h1> +6 </h1> | <img src="https://img.shields.io/badge/Visit%20Hive-%E2%98%86-green"> |
+| <h1> <img src="https://i.imgur.com/tu6XkQy.png"> </h1> | <h1> DevHive </h1> Aenean dolor nibh, ultrices ac suscipit in, dignissim eget tellus sam extended this on purpose. | <h1> +5 </h1> | <img src="https://img.shields.io/badge/Visit%20Hive-%E2%98%86-green"> |
+| <h1> <img src="https://i.imgur.com/DjRyFKr.png"> </h1> | <h1> ThinkHive </h1> Donec venenatis hendrerit egestas. | <h1> +4 </h1> | <img src="https://img.shields.io/badge/Visit%20Hive-%E2%98%86-green"> |
+| <h1> <img src="https://i.imgur.com/cCBfgtH.png"> </h1> | <h1> IguanaHive </h1> Mose eu suscipit dolor, facilisis pulvinar ante. | <h1> +3 </h1> | <img src="https://img.shields.io/badge/Visit%20Hive-%E2%98%86-green"> |
+| <h1> <img src="https://i.imgur.com/rrd3N07.png"> </h1> | <h1> LingoHive </h1> Nulla quis magna et turpis fringilla maximus. | <h1> +2 </h1> Language | <img src="https://img.shields.io/badge/Visit%20Hive-%E2%98%86-green"> |
+| <h1> <img src="https://i.imgur.com/t4g2RDI.png"> </h1> | <h1> SunnyHive </h1> Ut nibh libero, efficitur ac dictum scelerisque. | <h1> +1 </h1> | <img src="https://img.shields.io/badge/Visit%20Hive-%E2%98%86-green"> |
+| <h1> <img src="https://i.imgur.com/19AHyeo.png"> </h1> | <h1> DreamHive </h1> Phasellus sodales pellentesque elit sed tempor. | <h1> 0 </h1> | <img src="https://img.shields.io/badge/Visit%20Hive-%E2%98%86-black"> |
+| <h1> <img src="https://i.imgur.com/TwW8qT3.png"> </h1> | <h1> CuriosityHive </h1> ResearchHive </h1> Maecenas et sagittis dolor, sed ultricies felis. | <h1> -1 </h1> | <img src="https://img.shields.io/badge/Visit%20Hive-%E2%98%86-red"> |
+| <h1> <img src="https://i.imgur.com/pwewwFv.png"> </h1> | <h1> DesignHive </h1> Interdum et malesuada fames ac ante ipsum primis in faucibus. | <h1> -2 </h1> | <img src="https://img.shields.io/badge/Visit%20Hive-%E2%98%86-red"> |
+| <h1> <img src="https://i.imgur.com/oMpj15l.png"> </h1> | <h1> FireHive </h1> Donec venenatis hendrerit egestas. | <h1> -3 </h1> | <img src="https://img.shields.io/badge/Visit%20Hive-%E2%98%86-red"> |
+| <h1> <img src="https://i.imgur.com/22cLOd6.png"> </h1> | <h1> SilkHive </h1> Mose eu suscipit dolor, facilisis pulvinar ante. | <h1> -4 </h1> | <img src="https://img.shields.io/badge/Visit%20Hive-%E2%98%86-red"> |
+| <h1> <img src="https://i.imgur.com/apRaryq.png"> </h1> | <h1> DanceHive </h1> Phasellus sodales pellentesque elit sed tempor. | <h1> -5 </h1> | <img src="https://img.shields.io/badge/Visit%20Hive-%E2%98%86-red"> |
+| <h1> <img src="https://i.imgur.com/apRaryq.png"> </h1> | <h1> ZenHive </h1> Donec venenatis hendrerit egestas. | <h1> -6 </h1> | <img src="https://img.shields.io/badge/Visit%20Hive-%E2%98%86-red"> |
+| <h1> <img src="https://i.imgur.com/ZCu2hho.png"> </h1> | <h1> SacredHive </h1> Interdum et malesuada fames ac ante ipsum primis in faucibus. | <h1> -7 </h1> | <img src="https://img.shields.io/badge/Visit%20Hive-%E2%98%86-red"> |
 
-## FAQ
+## The OmniSpirit & The Omniverse
 
-- **How do I do *specifically* so and so?**
-    - No problem! Just do this.
+* 🙏 Phasellus sodales pellentesque elit sed tempor.
+* 👯 Nulla quis magna et turpis fringilla maximus. 
+* 🎉 Phasellus sodales pellentesque elit sed tempor.
+* ✨ Ut nibh libero, efficitur ac dictum scelerisque. 
+* 💞 Interdum et malesuada fames ac ante ipsum primis in faucibus.
+* 🌸 Mose eu suscipit dolor, facilisis pulvinar ante.
+* 💥 Phasellus sodales pellentesque elit sed tempor.
+* 🌟 Maecenas et sagittis dolor, sed ultricies felis.
+* ⭐ Toolbar for basic Markdown formatting
+* ✔️ Donec venenatis hendrerit egestas.
+* 🌈 Mose eu suscipit dolor, facilisis pulvinar ante.
+* 💐 Interdum et malesuada fames ac ante ipsum primis in faucibus.
 
----
+## Leaderboard 
 
-## Support
+Quisque rhoncus sodales rutrum. Maecenas ut magna tempus mi volutpat malesuada. Nam lobortis ullamcorper lorem sed volutpat.
 
-Reach out to me at one of the following places!
+|                                                            | User                                             | Step |
+| :--------------------------------------------------------- | :----------------------------------------------- | :------- |
+| ![](https://avatars.githubusercontent.com/u/204341?s=25)   | [@samartist](https://github.com/samartist)       | ⭐ +7 -8 ❤️ |
+| ![](https://avatars.githubusercontent.com/u/63164982?s=25) | [@samartist](https://github.com/samartist)       | ⭐ +6 -2 ❤️ |
+| ![](https://avatars.githubusercontent.com/u/56607882?s=25) | [@samartist](https://github.com/samartist)       | ⭐ +5 -4 ❤️ |
+| ![](https://avatars.githubusercontent.com/u/27820675?s=25) | [@samartist](https://github.com/samartist)       | ⭐ +4 -5 ❤️ |
+| ![](https://avatars.githubusercontent.com/u/1094221?s=25)  | [@samartist](https://github.com/samartist)       | ⭐ +4 -5 ❤️ |
+| ![](https://avatars.githubusercontent.com/u/194590?s=25)   | [@samartist](https://github.com/samartist)       | ⭐ +5 -4 ❤️ |
+| ![](https://avatars.githubusercontent.com/u/186637?s=25)   | [@samartist](https://github.com/samartist)       | ⭐ +4 -2 ❤️ |
+| ![](https://avatars.githubusercontent.com/u/29659953?s=25) | [@samartist](https://github.com/samartist)       | ⭐ +4 -5 ❤️ |
+| ![](https://avatars.githubusercontent.com/u/59947262?s=25) | [@samartist](https://github.com/samartist)       | ⭐ +4 -1 ❤️ |
+| ![](https://avatars.githubusercontent.com/u/635852?s=25)   | [@samartist](https://github.com/samartist)       | ⭐ +4 -6 ❤️ |
+| ![](https://avatars.githubusercontent.com/u/307334?s=25)   | [@samartist](https://github.com/samartist)       | ⭐ +3 -2 ❤️ |
+| ![](https://avatars.githubusercontent.com/u/11155743?s=25) | [@samartist](https://github.com/samartist)       | ⭐ +3 -3 ❤️ |
+| ![](https://avatars.githubusercontent.com/u/29042462?s=25) | [@samartist](https://github.com/samartist)       | ⭐ +3 -6 ❤️ |
 
-- Website at <a href="http://fvcproductions.com" target="_blank">`fvcproductions.com`</a>
-- Twitter at <a href="http://twitter.com/fvcproductions" target="_blank">`@fvcproductions`</a>
-- Insert more social links here.
+## Start your journey
 
----
+You can [visit](https://github.com/amitmerchant1990/electron-markdownify/releases/tag/v1.2.0) the joinable platform for everyone.
 
-## Donations (Optional)
+## Become a patreon
 
-- You could include a <a href="https://cdn.rawgit.com/gratipay/gratipay-badge/2.3.0/dist/gratipay.png" target="_blank">Gratipay</a> link as well.
+DreamHive is [opensource](https://en.wiktionary.org/wiki/emailware). Curabitur volutpat felis aliquet magna venenatis rutrum. Mauris accumsan condimentum arcu in pulvinar.
 
-[![Support via Gratipay](https://cdn.rawgit.com/gratipay/gratipay-badge/2.3.0/dist/gratipay.png)](https://gratipay.com/fvcproductions/)
+## Credits
 
+This software uses the following open source packages:
 
----
-
-## License
-
-[![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
-
-- **[MIT license](http://opensource.org/licenses/mit-license.php)**
-- Copyright 2020 © <a href="http://taofruit.com" target="_blank">Tao Fruit LLC</a>.
+- [Matthew](http://electron.atom.io/)
+- [Sam](https://nodejs.org/)
+- [Suzanne](https://github.com/chjj/marked)
+- [Zain](http://showdownjs.github.io/showdown/)
